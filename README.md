@@ -1,7 +1,3 @@
-
-<h1 align="center">Hi there 👋, I'm Sangam</h2>
-<h3 align="center">A passionate Test Automation Engineer</h5>
-
 ![image](/assets/image.webp)
 ![Playwright Logo](https://playwright.dev/img/playwright-logo.svg)
 <img alt="WebdriverIO" src="https://webdriver.io/assets/images/robot-3677788dd63849c56aa5cb3f332b12d5.svg" width="290">
